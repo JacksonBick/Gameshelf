@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  platform: Switch
+  status: Backlog
+  release_date: 2025-08-13
+  rating: 1
+  description: MyText
+  cover_url: https://example.com/one.jpg
+
+two:
+  title: MyOther
+  platform: PC
+  status: Playing
+  release_date: 2025-08-13
+  rating: 1
+  description: MyText
+  cover_url: https://example.com/two.jpg
